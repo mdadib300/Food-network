@@ -1,0 +1,54 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+span {
+    color: tomato;
+}
+
+.Button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(tomato, coral);
+    padding: 10px;
+    border-radius: 20px;
+
+
+}
+
+.sections-1 {
+
+    display: flex;
+}
+
+.sections-2 {
+
+    display: flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+
+.div {
+    padding: 100px;
+}
+
+.images {
+    height: 450px;
+    width: 475px;
+}
+
+.div-2 {
+    padding: 100px;
+    text-align: center;
+}
+
+.recipie-1 {
+    margin: 25px;
+    padding: 50px;
+    box-shadow: inset;
+}
+
+.rec-3 {
+    height: 100px;
+    width: 100px;
+}
